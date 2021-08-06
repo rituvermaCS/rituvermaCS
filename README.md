@@ -49,6 +49,8 @@
 <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituvermaCS&layout=compact" alt="rituvermaCS" /></p>
-<br /> 
+
+<br />
+
 <p><img align="left" alt="rituvermaCS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rituvermaCS&show_icons=true" /></p>
 
