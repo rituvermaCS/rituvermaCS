@@ -1,6 +1,6 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rituvermaCS&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
 
-### Hi there Ritu Verma 👋
+### Hi there I'm Ritu Verma 👋
 
 >&nbsp;I'm Ritu Verma.\
 >&nbsp;I'm Final year B.tech-Computer Science and Engineering student at FoET, University of Lucknow, Lucknow.\
@@ -8,7 +8,7 @@
 >&nbsp;I love to do coding and ML tasks.
 
 
-**You can found about me**:https://sites.google.com/view/rituverma/home
+**You can found me**:https://sites.google.com/view/rituverma/home
 
 
 - 💬 Ask me about Machine Learning, Full Stack Development and Python Advance.
