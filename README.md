@@ -5,7 +5,7 @@
 >&nbsp;I'm Ritu Verma.\
 >&nbsp;I'm Final year B.tech-Computer Science and Engineering student at FoET, University of Lucknow, Lucknow.\
 >&nbsp;I am a student who want to learn something new & experiences.\
->&nbsp;I love to do coding and ML tasks.\
+>&nbsp;I love to do coding and ML tasks.
 
 
 **You can found about me**:https://sites.google.com/view/rituverma/home
@@ -48,7 +48,7 @@
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituvermaCS&layout=compact" alt="rituvermaCS" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rituvermaCS&layout=compact" alt="rituvermaCS" /></p> \
 
 ----------
 
