@@ -14,7 +14,7 @@
 - 💬 Ask me about Machine Learning, Full Stack Development and Python Advance.
 - 🌱 I’m currently learning React and Flutter.
 - 👯 I’m looking for Big tech Internship.
-- 🔭 I’m currently working on a me.
+- 🔭 I’m currently working on something productive.
 - 🤔 I’m looking for help with my competitive programming skills.
 - 📫 How to reach me: rituvermaetw2018@gmail.com
 - 😄 SuperWeird
