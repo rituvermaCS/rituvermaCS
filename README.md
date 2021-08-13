@@ -8,7 +8,7 @@
 >&nbsp;I love to do coding and ML tasks.
 
 
-**You can found me**:https://sites.google.com/view/rituverma/home
+**You can found me**:https://ritu-verma.herokuapp.com
 
 
 - 💬 Ask me about Machine Learning, Full Stack Development and Python Advance.
