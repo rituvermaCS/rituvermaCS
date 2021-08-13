@@ -23,9 +23,9 @@
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ritu-verma-2018/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:rituvermaetw2018@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+<a href="mailto:rituvermaetw2018@gmail.com"><img alt="GMail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 <a href="https://instagram.com/_.rituverma._"><img src="https://img.shields.io/badge/-@_.rituverma._-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
-<a href="https://twitter.com/rituver20638886"><img alt= "rituver20638886" src="https://img.shields.io/badge/-@rituver20638886%20-%230077B5.svg?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
+<a href="https://twitter.com/rituver20638886"><img alt= "twitter" src="https://img.shields.io/badge/-@rituver20638886%20-%230077B5.svg?style=flat&logo=Twitter&logoColor=white"/></a> &nbsp;
 <a href="https://www.youtube.com/channel/UC-x-KLJRmpthj9jRQKEIFaQ"><img alt= "YouTube" src="https://img.shields.io/badge/-YouTube-D14836.svg?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100028008964420"><img alt= "Facebook" src="https://img.shields.io/badge/-facebook%20-%230077B5.svg?style=flat&logo=Facebook&logoColor=white"/></a> &nbsp;
 <a href="https://www.researchgate.net/profile/Ritu-Verma-24"><img alt= "ResearchGate" src="https://img.shields.io/badge/-ResearchGate%20-230077B5.svg?style=flat&logo=ResearchGate&logoColor=white"/></a> &nbsp;
