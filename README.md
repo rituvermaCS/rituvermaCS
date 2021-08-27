@@ -8,12 +8,12 @@
 >&nbsp;I love to do coding and ML tasks.
 
 
-**You can found me**:https://ritu-verma.herokuapp.com
+**Portfolio**:https://ritu-verma.herokuapp.com
 
 
 - 💬 Ask me about Machine Learning, Full Stack Development and Python Advance.
-- 🌱 I’m currently learning React and Flutter.
-- 👯 I’m looking for Big tech Internship.
+- 🌱 I’m currently learning React.
+- 👯 I’m looking for Internship.
 - 🔭 I’m currently working on something productive.
 - 🤔 I’m looking for help with my competitive programming skills.
 - 📫 How to reach me: rituvermaetw2018@gmail.com
