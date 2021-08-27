@@ -29,8 +29,8 @@
 <a href="https://www.youtube.com/channel/UC-x-KLJRmpthj9jRQKEIFaQ"><img alt= "YouTube" src="https://img.shields.io/badge/-YouTube-D14836.svg?style=flat&logo=YouTube&logoColor=white"/></a> &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100028008964420"><img alt= "Facebook" src="https://img.shields.io/badge/-facebook%20-%230077B5.svg?style=flat&logo=Facebook&logoColor=white"/></a> &nbsp;
 <a href="https://www.researchgate.net/profile/Ritu-Verma-24"><img alt= "ResearchGate" src="https://img.shields.io/badge/-ResearchGate%20-230077B5.svg?style=flat&logo=ResearchGate&logoColor=white"/></a> &nbsp;
-<a href="https://rituverma-20.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white"/></a> &nbsp;
 <a href="https://ritu-verma.herokuapp.com"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
+<a href="https://rituverma-20.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white"/></a> &nbsp;
 
 <br />
 
