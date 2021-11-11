@@ -4,7 +4,7 @@
 
 >&nbsp;I'm Ritu Verma.\
 >&nbsp;I'm Final year B.tech-Computer Science and Engineering student at FoET, University of Lucknow, Lucknow.\
->&nbsp;I am a student who want to learn something new & experiences.\
+>&nbsp;I am a student who want to learn something new.\
 >&nbsp;I love to do coding and ML tasks.
 
 
@@ -17,7 +17,8 @@
 - 🔭 I’m currently working on something productive.
 - 🤔 I’m looking for help with my competitive programming skills.
 - 📫 How to reach me: rituvermaetw2018@gmail.com
-- 😄 SuperWeird
+- 😄 Weirdo
+- =&= Milophile
 - ⚡ Pronouns: She/Her.
 
 ### Connect with me:
