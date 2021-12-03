@@ -13,7 +13,7 @@
 
 - 💬 Ask me about Machine Learning, Full Stack Development and Python Advance.
 - 🌱 I’m currently learning React.
-- 👯 I’m looking for Internship.
+- 👯 I’m looking for Internship, Traineeship or Job Role.
 - 🔭 I’m currently working on Python Backend.
 - 🤔 I’m looking for help with my competitive programming skills.
 - 📫 How to reach me: rituvermaetw2018@gmail.com
