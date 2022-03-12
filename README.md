@@ -1,6 +1,5 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rituvermaCS&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
-<p align="left"><img src="https://img.shields.io/github/followers/rituvermaCS?label=Follow&style=social" alt="follower" /> </p>
-![Github](https://img.shields.io/github/followers/rituvermaCS?label=Follow&style=social)](https://github.com/rituvermaCS)
+<p align="left"><img src="https://img.shields.io/github/followers/rituvermaCS?label=Follow&style=social" alt="followers" /> </p>
 
 ### Hi there I'm Ritu Verma 👋
 
