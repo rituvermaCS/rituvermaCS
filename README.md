@@ -94,9 +94,9 @@
 
   
 ##
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abhi41288) 
-[![Github](https://img.shields.io/github/followers/Abhi41288?label=Follow&style=social)](https://github.com/Abhi41288)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=rituvermaCS) 
+[![Github](https://img.shields.io/github/followers/Abhi41288?label=Follow&style=social)](https://github.com/rituvermaCS)
 #
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi41288&theme=tokyonight&hide=java)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhi41288&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rituvermaCS&theme=tokyonight&hide=java)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rituvermaCS&show_icons=true&theme=tokyonight)
 
