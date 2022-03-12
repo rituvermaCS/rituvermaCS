@@ -21,6 +21,8 @@
 - =&= Milophile
 - ⚡ Pronouns: She/Her.
 
+#
+
 ### Connect with me:
 
 <a href="https://www.linkedin.com/in/ritu-verma-2018/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
@@ -34,6 +36,8 @@
 <a href="https://rituverma-20.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white"/></a> &nbsp;
 
 <br />
+
+#
 
 ### Tech Stack:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -57,9 +61,6 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-
-
-
 
 <br />
 <br />
