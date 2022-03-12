@@ -1,4 +1,5 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rituvermaCS&label=Profile%20views&color=2eb37e&style=flat" alt="profile views" /> </p>
+[![Github](https://img.shields.io/github/followers/rituvermaCS?label=Follow&style=social)](https://github.com/rituvermaCS)
 
 ### Hi there I'm Ritu Verma 👋
 
@@ -69,9 +70,6 @@
 <p><img align="left" alt="rituvermaCS's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rituvermaCS&show_icons=true" /></p>
 
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey 👋, nice to see you.</h1>
-
-<p>Welcome to my page! </br> I'm Abhishek, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="13"/> <b>Banglore, India</b> </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -93,21 +91,7 @@
   <img alt="Maven" src="https://img.shields.io/badge/-maven-43853d?style=flat-square&logo=maven&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-jenkins-43853d?style=flat-square&logo=jenkins&logoColor=white" />
 </p>
-<h3>About me</h3>
-<ui>
-  <li>
-🔭 I’m currently working at Cognizant and Ex-Continental Automotive, Ex-IBM employee.
-  </li>
-   <li>
-👯 I’m looking to collaborate on training
-     </li>
-   <li>
-💬 Ask me anything about React, Node, Redux, Angular, webpack or any frontend related stuff
-     </li>
-   <li>
-     📫 How to reach me: <a href="https://www.linkedin.com/in/abhishek-kamalkishor-75803258//"> linkedIn @abhishek </a>
-     </li>
-  </ui>
+
   
 ##
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abhi41288) 
