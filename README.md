@@ -34,9 +34,6 @@
 <a href="https://www.researchgate.net/profile/Ritu-Verma-24"><img alt= "ResearchGate" src="https://img.shields.io/badge/-ResearchGate%20-230077B5.svg?style=flat&logo=ResearchGate&logoColor=white"/></a> &nbsp;
 <a href="https://ritu-verma.herokuapp.com"><img alt= "Portfolio" src="https://img.shields.io/badge/-Portfolio%20-%230077B5.svg?style=flat&logo=Website&logoColor=white"/></a> &nbsp;
 <a href="https://rituverma-20.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=flat&logo=medium&logoColor=white"/></a> &nbsp;
-
-<br />
-
 #
 
 ### Tech Stack:
@@ -49,7 +46,7 @@
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&logo=javascript&logoColor=black" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img align="left" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-<img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
+<img align="left" alt="Vim" src="https://img.shields.io/badge/-Vim-007a1d?style=flat-square&logo=vim&logoColor=white" />
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 <img align="left" alt="Django" src="https://img.shields.io/badge/-Django-31b526?style=flat-square&logo=django&logoColor=white" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
