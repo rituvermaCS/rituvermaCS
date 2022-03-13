@@ -46,7 +46,7 @@
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&logo=javascript&logoColor=black" />
 <img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img align="left" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-
+<br>
 <img align="left" alt="Vim" src="https://img.shields.io/badge/-Vim-007a1d?style=flat-square&logo=vim&logoColor=white" />
 <img align="left" alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-fd0016?style=flat-square&logo=opencv&logoColor=green" />
 <img align="left" alt="Django" src="https://img.shields.io/badge/-Django-31b526?style=flat-square&logo=django&logoColor=white" />
