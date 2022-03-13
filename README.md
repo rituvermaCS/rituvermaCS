@@ -47,6 +47,8 @@
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-56dbce?style=flat-square&logo=css3&logoColor=white" />
 <img align="left" alt="Tensorflow" src="https://img.shields.io/badge/-TensorFlow-6e6e6e?style=flat-square&logo=tensorflow&logoColor=orange" />
 <img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&logo=javascript&logoColor=black" />
+<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img align="left" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img align="left" alt="Vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="OpenCV" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png" />
 <img align="left" alt="Django" src="https://img.shields.io/badge/-Django-31b526?style=flat-square&logo=django&logoColor=white" />
