@@ -61,16 +61,19 @@
 
 <img align="left" alt="Django" src="https://img.shields.io/badge/-Django-31b526?style=flat-square&logo=django&logoColor=white" />
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="C Language" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Ubuntu" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" />
-<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="MYSQL" src="https://img.shields.io/badge/-MYSQL-ffffff?style=flat-square&logo=mysql&logoColor=blue" />
+
+<img align="left" alt="C Language" src="https://img.shields.io/badge/-C%20Language-ffffff?style=flat-square&logo=c&logoColor=blue" />
+
+<img align="left" alt="JAVA" src="https://img.shields.io/badge/-Java-ffffff?style=flat-square&logo=java&logoColor=blue" />
+
+<img align="left" alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-f54a00?style=flat-square&logo=ubuntu&logoColor=white" />
+
+<img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-f5c800?style=flat-square&logo=amazon&logoColor=grey" />
+
+<img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker&logoColor=blue" />
+
+<img align="left" alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-ffffff?style=flat-square&logo=kubernetes&logoColor=blue" />
 
 <br />
 <br />
