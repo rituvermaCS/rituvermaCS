@@ -4,16 +4,15 @@
 
 >&nbsp;I'm Ritu Verma.\
 >&nbsp;I'm Final year B.tech-Computer Science and Engineering student at University of Lucknow.\
->&nbsp;I am a student who want to learn something new.\
 >&nbsp;I love to do coding and ML tasks.
 
 
-**Portfolio**: https://ritu-verma.herokuapp.com
+**Portfolio**: https://ritu-verma.herokuapp.com/
 
 
-- 💬 Ask me about Machine Learning, Full Stack Development and Python Advance.
+- 💬 Ask me about Machine Learning, Back End Development and Python.
 - 🌱 I’m currently learning MERN.
-- 👯 I’m looking for Internship/Full time Job Role.
+- 👯 I’m looking for Full time Job Role.
 - 🔭 I’m currently working on Backend and REST API.
 - 🤔 I’m looking for help with my competitive programming skills.
 - 📫 How to reach me: rituvermaetw2018@gmail.com
