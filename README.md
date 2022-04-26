@@ -36,37 +36,6 @@
 #
 
 ### Tech Stack:
-<img align="left" alt="Python" src="https://img.shields.io/badge/-Python-ffff00?style=flat-square&logo=python&logoColor=blue" />
-
-<img align="left" alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-
-<img align="left" alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-
-<img align="left" alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
-<img align="left" alt="CSS3" src="https://img.shields.io/badge/-CSS3-56dbce?style=flat-square&logo=css3&logoColor=white" />
-
-<img align="left" alt="Tensorflow" src="https://img.shields.io/badge/-TensorFlow-6e6e6e?style=flat-square&logo=tensorflow&logoColor=orange" />
-
-<img align="left" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffff00?style=flat-square&logo=javascript&logoColor=black" />
-
-<img align="left" alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-
-<img align="left" alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-
-<img align="left" alt="Vim" src="https://img.shields.io/badge/-Vim-007a1d?style=flat-square&logo=vim&logoColor=white" />
-
-<img align="left" alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-fd0016?style=flat-square&logo=opencv&logoColor=green" />
-
-<img align="left" alt="Django" src="https://img.shields.io/badge/-Django-31b526?style=flat-square&logo=django&logoColor=white" />
-
-<img align="left" alt="MYSQL" src="https://img.shields.io/badge/-MYSQL-ffffff?style=flat-square&logo=mysql&logoColor=blue" />
-
-<img align="left" alt="C Language" src="https://img.shields.io/badge/-C%20Language-ffffff?style=flat-square&logo=c&logoColor=blue" />
-
-<img align="left" alt="JAVA" src="https://img.shields.io/badge/-Java-ffffff?style=flat-square&logo=java&logoColor=blue" />
-
-<img align="left" alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-f54a00?style=flat-square&logo=ubuntu&logoColor=white" />
 
 <img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-f5c800?style=flat-square&logo=amazon&logoColor=grey" />
 
@@ -77,25 +46,28 @@
 <br />
 <br />
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Spring](https://img.shields.io/badge/-Spring-05122A?&logo=Spring)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?&logo=MongoDB)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2305122A.svg?style=flae&logo=mysql&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=Django)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=OpenCV)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=Tensorflow)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![PHP](https://img.shields.io/badge/php-%2305122A.svg?style=flat&logo=php&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
-![Intellij](https://img.shields.io/badge/-Intellij-05122A?style=flat&logo=Intellij-ide&logoColor=2C2255)&nbsp;
-![NetBeans](https://img.shields.io/badge/-NetBeans-05122A?style=flat&logo=NetBeans-ide&logoColor=2C2255)&nbsp;
-![tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Tailwind-ide&logoColor=2C2255)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rituvermaCS&theme=tokyonight&hide=java)
