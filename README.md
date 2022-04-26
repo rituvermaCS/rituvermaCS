@@ -37,16 +37,8 @@
 
 ### Tech Stack:
 
-<img align="left" alt="AWS" src="https://img.shields.io/badge/-AWS-f5c800?style=flat-square&logo=amazon&logoColor=grey" />
-
-<img align="left" alt="Docker" src="https://img.shields.io/badge/-Docker-ffffff?style=flat-square&logo=docker&logoColor=blue" />
-
-<img align="left" alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-ffffff?style=flat-square&logo=kubernetes&logoColor=blue" />
-
-<br />
-<br />
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C Lang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=Go)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?&logo=MongoDB)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
@@ -60,7 +52,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C Lang](https://img.shields.io/badge/-C-Lang-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
