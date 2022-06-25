@@ -4,7 +4,7 @@
 
 >&nbsp;I'm Ritu Verma.\
 >&nbsp;I'm Final year B.tech-Computer Science and Engineering student at University of Lucknow.\
->&nbsp;I love to do coding and ML tasks.
+>&nbsp;I love to do coding and Machine Learning task.
 
 
 **Portfolio**: https://ritu-verma.herokuapp.com/
