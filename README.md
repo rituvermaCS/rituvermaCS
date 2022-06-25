@@ -3,22 +3,22 @@
 ### Hi there I'm Ritu Verma 👋
 
 >&nbsp;I'm Ritu Verma.\
->&nbsp;I'm Final year B.tech-Computer Science and Engineering student at University of Lucknow.\
+>&nbsp;I'm B.tech-Computer Science and Engineering graduate from Faculty of Engineering and Technology, University of Lucknow.\
 >&nbsp;I love to do coding and Machine Learning task.
 
 
 **Portfolio**: https://ritu-verma.herokuapp.com/
 
 
-- 💬 Ask me about Machine Learning, Back End Development and Python.
-- 🌱 I’m currently learning MERN.
+- 💬 Ask me about Machine Learning, Back End Development, REST API and Python.
+- 🌱 I’m currently learning DSA.
 - 👯 I’m looking for Full time Job Role.
 - 🔭 I’m currently working on Backend and REST API.
 - 🤔 I’m looking for help with my competitive programming skills.
 - 📫 How to reach me: rituvermaetw2018@gmail.com
 - 😄 Weirdo
 - =&= Milophile
-- ⚡ Pronouns: She/Her.
+- ⚡ Pronouns: She/Her
 
 #
 
