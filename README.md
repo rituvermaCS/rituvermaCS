@@ -10,7 +10,7 @@
 **Portfolio**: https://ritu-verma.herokuapp.com/
 
 
-- 💬 Ask me about Machine Learning, Back End Development, REST API and Python.
+- 💬 Ask me about Machine Learning, Software Development, REST API and Python.
 - 🌱 I’m currently learning DSA.
 - 👯 I’m looking for Full time Job Role.
 - 🔭 I’m currently working on Backend and REST API.
