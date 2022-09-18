@@ -3,17 +3,17 @@
 ### Hi there I'm Ritu Verma 👋
 
 >&nbsp;I'm Ritu Verma.\
->&nbsp;I'm B.tech-Computer Science and Engineering graduate from Faculty of Engineering and Technology, University of Lucknow.\
->&nbsp;I love to do coding and Machine Learning task.
+>&nbsp;I am B.tech-Computer Science and Engineering graduate from Faculty of Engineering and Technology, University of Lucknow.\
+>&nbsp;I love to do coding.
 
 
 **Portfolio**: https://ritu-verma.herokuapp.com/
 
 
-- 💬 Ask me about Machine Learning, Software Development, REST API and Python.
-- 🌱 I’m currently learning DSA.
-- 👯 I’m looking for Full time Job Role.
-- 🔭 I’m currently working on Backend and REST API.
+- 💬 Ask me about Machine Learning, Django, React, REST API and Python.
+- 🌱 I’m currently learning MEAN Stack.
+- 👯 I have advance projects on NLP.
+- 🔭 I have worked on AWS(EC2, S3 and ML), Docker, Kubernetes and Database.
 - 🤔 I’m looking for help with my competitive programming skills.
 - 📫 How to reach me: rituvermaetw2018@gmail.com
 - 😄 Weirdo
