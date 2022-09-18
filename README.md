@@ -4,7 +4,7 @@
 
 >&nbsp;I'm Ritu Verma.\
 >&nbsp;I am B.tech-Computer Science and Engineering graduate from FOET, University of Lucknow.\
->&nbsp;I am Software Engineer @soprasteria
+>&nbsp;Software Engineer @ Sopra Steria India \
 >&nbsp;I love to do coding.
 
 
