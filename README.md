@@ -3,7 +3,7 @@
 ### Hi there I'm Ritu Verma 👋
 
 >&nbsp;I'm Ritu Verma.\
->&nbsp;I am B.tech-Computer Science and Engineering graduate from Faculty of Engineering and Technology, University of Lucknow.\
+>&nbsp;I am B.tech-Computer Science and Engineering graduate from FOET, University of Lucknow.\
 >&nbsp;I love to do coding.
 
 
