@@ -42,6 +42,7 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![C Lang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=Go)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)&nbsp;
+![Node.Js](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=NodeJs)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?&logo=MongoDB)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -56,7 +57,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![C Lang](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![MSSQl](https://img.shields.io/badge/-MSSQL-05122A?style=flat&logo=MSSQL&logoColor=FFA518)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=Ubuntu)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=Docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
