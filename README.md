@@ -39,6 +39,7 @@
 ### Tech Stack:
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![C Lang](https://img.shields.io/badge/-GoLang-05122A?style=flat&logo=Go)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?&logo=React)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?&logo=MongoDB)&nbsp;
@@ -61,6 +62,9 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=AWS)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=SpringBoot)&nbsp;
+![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=Hibernate)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&logo=Spring)&nbsp;
 
 #
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rituvermaCS&theme=tokyonight&hide=java)
